@@ -1,0 +1,28 @@
+{
+  "name": "my-divjoy-project",
+  "version": "0.1.0",
+  "private": true,
+  "keywords": [
+    "divjoy"
+  ],
+  "description": "Built with Divjoy, a React codebase generator. You must purchase a license at https://divjoy.com?ref=cs in order to use any of the code in this project.",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "next": "12.2.5",
+    "react-hook-form": "6.15.1",
+    "tailwindcss": "3.0.23",
+    "@tailwindcss/typography": "0.5.2",
+    "@headlessui/react": "1.5.0",
+    "postcss": "8.4.12",
+    "autoprefixer": "10.4.4",
+    "query-string": "6.13.8",
+    "react-query": "3.32.1",
+    "@supabase/supabase-js": "2.26.0"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
